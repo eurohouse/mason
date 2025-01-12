@@ -8,6 +8,15 @@
             "RU": { "title": "Карди Би" }
         }
     },
+    "Sydney Sweeney": {
+        "height": 1.61, "weight": 56,
+        "sizes": "91-63-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "September 12, 1997",
+        "language": {
+            "RU": { "title": "Сидни Суини" }
+        }
+    },
     "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
