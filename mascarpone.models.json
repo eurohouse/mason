@@ -1,0 +1,585 @@
+{
+    "Cardi B": {
+        "height": 1.68, "weight": 62,
+        "sizes": "99-69-91", "nsfw": "true",
+        "shoe_size": 4, "country": "US",
+        "birthday": "October 11, 1992",
+        "language": {
+            "RU": { "title": "Карди Би" }
+        }
+    },
+    "Audrey Hepburn": {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Zendaya Coleman": {
+        "height": 1.78, "weight": 59,
+        "sizes": "87-64-87", "nsfw": "true",
+        "shoe_size": 10, "country": "US",
+        "birthday": "September 1, 1996",
+        "language": {
+            "RU": { "title": "Зендая Коулман" }
+        }
+    },
+    "Scarlett Johansson": {
+        "height": 1.6, "weight": 57,
+        "sizes": "92-64-92", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "November 22, 1984",
+        "language": {
+            "RU": { "title": "Скарлетт Йоханссон" }
+        }
+    },
+    "Lily Allen": {
+        "height": 1.57, "weight": 52,
+        "sizes": "92-64-89", "shoe_size": 6,
+        "country": "GB", "nsfw": "true",
+        "birthday": "May 2, 1985",
+        "language": {
+            "RU": { "title": "Лили Аллен" }
+        }
+    },
+    "Pixie Lott": {
+        "height": 1.73, "weight": 57,
+        "sizes": "87-64-92", "shoe_size": 9,
+        "country": "GB", "nsfw": "true",
+        "birthday": "January 12, 1991",
+        "language": {
+            "RU": { "title": "Пикси Лотт" }
+        }
+    },
+    "Christa Rigozzi": {
+        "height": 1.69, "weight": 58, "shoe_size": 12.5,
+        "country": "CH", "nsfw": "true",
+        "birthday": "May 2, 1983",
+        "language": {
+            "RU": { "title": "Криста Ригоцци" }
+        }
+    },
+    "Rihanna": {
+        "height": 1.73, "weight": 60,
+        "sizes": "87-61-92", "shoe_size": 10,
+        "country": "BB", "nsfw": "true",
+        "birthday": "February 20, 1988",
+        "language": {
+            "RU": { "title": "Рианна" }
+        }
+    },
+    "Angelina Jolie": {
+        "height": 1.69, "weight": 54,
+        "sizes": "92-59-89", "nsfw": "true",
+        "shoe_size": 9, "country": "US",
+        "birthday": "June 4, 1975",
+        "language":
+        {
+            "RU": { "title": "Анджелина Джоли" }
+        }
+    },
+    "Britney Spears": {
+        "height": 1.63, "weight": 57,
+        "sizes": "89-69-89", "shoe_size": 7,
+        "country": "US", "nsfw": "true",
+        "birthday": "December 2, 1981",
+        "language": {
+            "RU": { "title": "Бритни Спирс" }
+        }
+    },
+    "Sandra Bullock": {
+        "height": 1.71, "weight": 54,
+        "sizes": "87-61-87", "shoe_size": 10,
+        "country": "US", "nsfw": "true",
+        "birthday": "July 26, 1964",
+        "language": {
+            "RU": { "title": "Сандра Баллок" }
+        }
+    },
+    "Megan Fox": {
+        "height": 1.63, "weight": 52, "shoe_size": 7,
+        "country": "US", "nsfw": "true",
+        "birthday": "May 16, 1986",
+        "language": {
+            "RU": { "title": "Меган Фокс" }
+        }
+    },
+    "Cara Delevingne": {
+        "height": 1.73, "weight": 51,
+        "sizes": "81-61-87", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 12, 1992",
+        "language": {
+            "RU": { "title": "Кара Делевинь" }
+        }
+    },
+    "Tamara Ecclestone": {
+        "height": 1.73, "weight": 51,
+        "sizes": "87-61-86", "nsfw": "true",
+        "shoe_size": 7.5, "country": "IT",
+        "birthday": "June 28, 1984",
+        "language": {
+            "RU": { "title": "Тамара Экклестон" }
+        }
+    },
+    "Claudine Auger": {
+        "height": 1.73, "weight": 61,
+        "sizes": "91-58-94", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "April 26, 1941",
+        "language": {
+            "RU": { "title": "Клодин Оже" }
+        }
+    },
+    "Vanessa VillaFuerte": {
+        "nsfw": "true", "country": "US",
+        "birthday": "February 27, 2023",
+        "language": {
+            "RU": { "title": "Ванесса Вилаферте" }
+        }
+    },
+    "Alessandra Ambrosio": {
+        "height": 1.76, "weight": 54,
+        "sizes": "86-64-87", "nsfw": "true",
+        "shoe_size": 10, "country": "BR",
+        "birthday": "April 11, 1981",
+        "language": {
+            "RU": { "title": "Алессандра Амброзио" }
+        }
+    },
+    "Raffaella Fico": {
+        "height": 1.73, "weight": 58,
+        "sizes": "84-63-86", "nsfw": "true",
+        "shoe_size": 9, "country": "IT",
+        "birthday": "January 29, 1988",
+        "language": {
+            "RU": { "title": "Рафаэлла Фико" }
+        }
+    },
+    "Rose Bertram": {
+        "height": 1.7, "weight": 63,
+        "sizes": "94-66-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "BE",
+        "birthday": "October 26, 1994",
+        "language": {
+            "RU": { "title": "Роза Бертрам" }
+        }
+    },
+    "Olivia Culpo": {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language": {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
+    "Barbara Palvin": {
+        "height": 1.75, "weight": 58,
+        "sizes": "85-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "HU",
+        "birthday": "October 8, 1993",
+        "language": {
+            "RU": { "title": "Барбара Палвин" }
+        }
+    },
+    "Beyoncé": {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language": {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Chrisette Michele": {
+        "memoir": "Songbird Chrisette Michele channels her inner T-Pain, using auto-tune for her new single, ‘Charade’. Chrisette also snags 2 Chainz for the slow track, that will be featured on her new mix tape (scheduled to hit the net in December) - Audrey Hepburn: The Mixtape. Check it out.",
+        "height": 1.7, "weight": 69,
+        "sizes": "86-63-76", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "December 8, 1982",
+        "language": {
+            "RU": { "title": "Крисет Мишель" }
+        }
+    },
+    "Jennifer Love Hewitt": {
+        "height": 1.57, "weight": 56,
+        "sizes": "97-64-97", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 21, 1979",
+        "language": {
+            "RU": { "title": "Дженнифер Лав Хьюитт" }
+        }
+    },
+    "Margot Robbie": {
+        "height": 1.68, "weight": 57,
+        "sizes": "86-59-86", "nsfw": "true",
+        "shoe_size": 8.5, "country": "AU",
+        "birthday": "July 2, 1990",
+        "language": {
+            "RU": { "title": "Марго Робби" }
+        }
+    },
+    "Eugène Onéguine, Canto The First: XXX": {
+        "insignia": "Lady", "nsfw": "true", "country": "IT",
+        "memoir": "Beside the stormy sea one day I envied sore the billows tall, Which rushed in eager dense array Enamoured at her feet to fall. How like the billow I desired To kiss the feet which I admired! No, never in the early blaze Of fiery youth’s untutored days So ardently did I desire A young Armida’s lips to press, Her cheek of rosy loveliness Or bosom full of languid fire, - A gust of passion never tore My spirit with such pangs before.",
+        "language": {
+            "RU": {
+                "title": "А.С. Пушкин. Евгений Онегин, Глава Первая: XXX",
+                "memoir": "Увы, на разные забавы Я много жизни погубил! Но если б не страдали нравы, Я балы б до сих пор любил. Люблю я бешеную младость, И тесноту, и блеск, и радость, И дам обдуманный наряд; Люблю их ножки; только вряд Найдете вы в России целой Три пары стройных женских ног. Ах! долго я забыть не мог Две ножки... Грустный, охладелый, Я всё их помню, и во сне Они тревожат сердце мне."
+            }
+        }
+    },
+    "The League of Nations": {
+        "country": "UN", "insignia": "Palace",
+        "maison": "https://www.ungeneva.org/en/about/league-of-nations/overview",
+        "memoir": "The League of Nations (1920 - 1946) was the first intergovernmental organization established “to promote international cooperation and to achieve international peace and security”. It is often referred to as the “predecessor” of the United Nations. Its founding document - the Covenant of the League of Nations – was drafted during the peace negotiations at the end of the First World War. It was composed of 26 articles, and covered many aspects of the organization, such as the conditions for membership, the functions of the principal organs, the mechanisms for a peaceful settlement of international disputes, and the obligations of the Member States. The Covenant also contained the main principles on which the League was built.",
+        "language": {
+            "RU": {
+                "title": "Лига Наций",
+                "memoir": "Лига Наций (1920 - 1946) была первой межправительственной организацией, созданной «для содействия международному сотрудничеству и достижения международного мира и безопасности». Ее часто называют «предшественником» Организации Объединенных Наций. Ее учредительный документ — Устав Лиги Наций — был разработан во время мирных переговоров в конце Первой мировой войны. Он состоял из 26 статей и охватывал многие аспекты организации, такие как условия членства, функции главных органов, механизмы мирного урегулирования международных споров и обязательства государств-членов. Устав также содержал основные принципы, на которых была построена Лига."
+            }
+        }
+    },
+    "Federal Reserve System": {
+        "country": "US", "insignia": "Palace",
+        "maison": "https://www.federalreserve.gov",
+        "memoir": "Multilateral economic cooperation among countries was crucial for the post-war world economies. Countries sought to establish an international monetary and financial system that fostered collaboration and growth among the participating countries. They wanted to avoid the complications, faced during the interwar period, due to leaving the gold standard, the great depression, and trade wars that spread the depression globally. There would be a need for an entity that fostered equilibrium in exchange rates and prevented competitive devaluations while ensuring domestic policy autonomy for high employment and real income.",
+        "language": {
+            "RU": {
+                "title": "Федеральная резервная система",
+                "memoir": "Многостороннее экономическое сотрудничество между странами имело решающее значение для послевоенной мировой экономики. Страны стремились создать международную валютную и финансовую систему, которая способствовала бы сотрудничеству и росту среди стран-участниц. Они хотели избежать осложнений, с которыми столкнулись в межвоенный период из-за отказа от золотого стандарта, Великой депрессии и торговых войн, которые распространили депрессию по всему миру. Возникла бы необходимость в образовании, которое способствовало бы равновесию обменных курсов и предотвращало бы конкурентные девальвации, обеспечивая при этом внутреннюю независимость политики для высокой занятости и реального дохода."
+            }
+        }
+    },
+    "Waddesdon Manor": {
+        "country": "GB", "insignia": "Palace",
+        "maison": "https://waddesdon.org.uk",
+        "memoir": "Baron Ferdinand de Rothschild wanted an estate where he could escape London in the summer months to entertain family and friends for weekend house parties. The Vale of Aylesbury was already known as 'Rothschildshire' for the number of the houses owned by the family in the area. When he came into his inheritance in 1874 he purchased a bare agricultural estate with a misshapen cone at its centre. The foundation stone was laid in 1877 and six years later the land had been transformed into a beautiful landscape by planting mature trees, bringing in the water supply from Aylesbury and removing 30 feet of soil to create the impressive approach to the house.",
+        "language": {
+            "RU": {
+                "title": "Поместье Уоддесдон",
+                "memoir": "Барон Фердинанд де Ротшильд хотел поместье, куда он мог бы сбежать из Лондона в летние месяцы, чтобы развлекать семью и друзей на домашних вечеринках по выходным. Долина Эйлсбери уже была известна как «Ротшильдшир» из-за количества домов, принадлежащих семье в этом районе. Когда он получил свое наследство в 1874 году, он купил пустое сельскохозяйственное поместье с деформированным конусом в центре. Первый камень был заложен в 1877 году, и шесть лет спустя земля была преобразована в прекрасный ландшафт путем посадки взрослых деревьев, проведения водоснабжения из Эйлсбери и удаления 30 футов почвы для создания впечатляющего подхода к дому."
+            }
+        }
+    },
+    "Mermaid Inn": {
+        "country": "GB", "insignia": "Mermaid",
+        "maison": "https://www.mermaidinn.com",
+        "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
+        "language": {
+            "RU": {
+                "memoir": "Средневековая цитадель, защищенная от захватчиков и моря, Рай мягко раскрывает свою историю. Сегодня здесь находится множество произведений искусства, диковинок и уютных пабов, а также современные бутик-отели и современные рестораны, предлагающие лучшее, что может предложить Сассекс, с суши и с моря. Построенный на контрабандных тайнах и вневременных историях, Рай имеет укромные уголки, которые можно исследовать, и далекие виды на Ромни-Марш, над которыми стоит задуматься."
+            }
+        }
+    },
+    "Château de Versailles": {
+        "setting": "La Belle Époque",
+        "country": "FR", "insignia": "Palace",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
+        "language": {
+            "RU": {
+                "title": "Версальский дворец",
+                "memoir": "Посетители, глядя через центральное окно Зеркального зала, увидят Большую перспективу, уходящую к горизонту от Водного партера. Эта уникальная перспектива с востока на запад возникла еще до правления Людовика XIV, но она была развита и расширена садовником Андре Ле Нотром, который расширил Королевский путь и выкопал Большой канал."
+            }
+        }
+    },
+    "Parisian Balcony": {
+        "country": "FR", "insignia": "EiffelTower",
+        "memoir": "Sometimes architecture is so much a part of the fabric of a city that it makes its way into our imagination without us even realizing it. We can hardly think of New York without that iconic skyline filled with gravity-defying skyscrapers, just as no image of London would be complete without a backdrop of terraced houses covered in English ivy. But perhaps no scene is as iconic as the great boulevards of Paris, lined with those romantic pale stone buildings ringed in wrought iron balconies.",
+        "language": {
+            "RU": {
+                "title": "Балконы Парижа",
+                "memoir": "Иногда архитектура настолько является частью городской структуры, что проникает в наше воображение, даже не осознавая этого. Мы вряд ли можем думать о Нью-Йорке без этого культового горизонта, наполненного небоскребами, бросающими вызов гравитации, точно так же, как ни один образ Лондона не был бы полным без фона домов с террасами, покрытых английским плющом. Но, пожалуй, ни одна сцена не является столь знаковой, как большие бульвары Парижа, вдоль которых выстроились романтические здания из светлого камня, окруженные балконами из кованого железа."
+            }
+        }
+    },
+    "Les Thermes de Spa": {
+        "country": "BE", "insignia": "Amphora",
+        "memoir": "The Thermes of Spa combine modern wellness with traditional hydrotherapy; peat baths, balneotherapy treatments, benefits conferred by drinking water, pleasures of water games, relaxation or fitness programs, beauty treatments.",
+        "language": {
+            "RU": {
+                "title": "Термальные источники Спа",
+                "memoir": "Термы Спа сочетают современный велнес с традиционной гидротерапией; торфяные ванны, бальнеотерапевтические процедуры, польза от питьевой воды, водные игры, программы релаксации или фитнеса, косметические процедуры."
+            }
+        }
+    },
+    "Canals and Rii of Venice": {
+        "country": "IT", "insignia": "Compass",
+        "memoir": "It is of course all the charm and all the beauty of Venice. Water, mirrors not only our souls but also the palaces. Water not only embellishes, water is the source of life. All these multicolored images and generally gilded of the canals of Venice undeniably bring a unique visual dimension to the city. But beyond this romantic and artistic aspect of the canals of Venice are the historical and present day factors.",
+        "language": {
+            "RU": {
+                "title": "Каналы и реки Венеции",
+                "memoir": "В этом, конечно, все очарование и вся красота Венеции. Вода отражает не только наши души, но и дворцы. Вода не только украшает, вода является источником жизни. Все эти разноцветные изображения и позолоченные каналы Венеции, несомненно, придают городу уникальное визуальное измерение. Но за этим романтическим и художественным аспектом каналов Венеции стоят исторические и современные факторы."
+            }
+        }
+    },
+    "European Café Culture": {
+        "country": "EU", "insignia": "Coffee",
+        "maison": "https://coffeeaffection.com/european-coffee-culture",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language": {
+            "RU": {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
+        }
+    },
+    "Sunset in Paris": {
+        "country": "FR", "insignia": "EiffelTower",
+        "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
+        "language": {
+            "RU": {
+                "title": "Закаты Парижа",
+                "memoir": "Париж – популярное направление для туристов со всего мира круглый год. Столица, известная как Город Света, предлагает исключительные виды в любое время суток. Сумерки — это уникальный момент, когда яркие цвета приглашают нас помечтать."
+            }
+        }
+    },
+    "Zentralen Ostalpen": {
+        "country": "AT", "insignia": "OrientExpress",
+        "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
+        "language": {
+            "RU": {
+                "title": "Центрально-Восточные Альпы",
+                "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
+            }
+        }
+    },
+    "Zermatt Matterhorn": {
+        "country": "CH", "insignia": "Louvre",
+        "maison": "https://www.zermatt.ch/en/matterhorn",
+        "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
+        "language": {
+            "RU": {
+                "title": "Церматт Маттерхорн",
+                "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
+            }
+        }
+    },
+    "Pont Alexandre III": {
+        "country": "FR", "insignia": "Palace",
+        "memoir": "Inaugurated on the occasion of the 1900 Universal Exhibition and classed as a historic monument, the Pont Alexandre III is one of the most emblematic bridges in Paris because of its architecture and location.",
+        "language": {
+            "RU": {
+                "title": "Мост Александра III",
+                "memoir": "Мост Александра III, открытый по случаю Всемирной выставки 1900 года и классифицированный как исторический памятник, является одним из самых символичных мостов Парижа благодаря своей архитектуре и расположению."
+            }
+        }
+    },
+    "Illuminati Pop Stars": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "Handlers employed by the multi-trillion dollar entertainment industry craft these celebrities from children, subjecting them to various abusive forms of psychological torture. They are programmed to play the role of fame and success, but are ultimately wired to self-destruct before the entire world. Miley Cyrus, Ariana Grande, Katy Perry and Amanda Bynes are a few of our contemporaries.",
+        "language": {
+            "RU": {
+                "title": "Поп-звёзды Иллюминаты",
+                "memoir": "Нанятые многотриллионной индустрией развлечений посредники создают этих знаменитостей из детей, подвергая их различным жестоким формам психологических пыток. Они запрограммированы играть роль славы и успеха, но в конечном итоге запрограммированы на самоуничтожение перед всем миром. Майли Сайрус, Ариана Гранде, Кэти Перри и Аманда Байнс — вот лишь некоторые из наших современников."
+            }
+        }
+    },
+    "Victims of Monarch Programming": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "Roseanne Barr spoke about MK Ultra programming in Hollywood in an interview with Abbey Martin. Many other celebrities have also spoken out. Corey Feldman went public with claims that Hollywood culture is rife with pedophilia, which is a powerful means of psychologically destroying a child. Bill Clinton even admitted that the government has been engaged in MK Ultra type programs where experiments were carried out on unwitting persons.",
+        "language": {
+            "RU": {
+                "title": "Жертвы программы Монарх",
+                "memoir": "Розанна Барр рассказала о программах MK Ultra в Голливуде в интервью Эбби Мартин. Многие другие знаменитости также высказались. Кори Фельдман публично заявил, что голливудская культура изобилует педофилией, которая является мощным средством психологического уничтожения ребенка. Билл Клинтон даже признал, что правительство участвовало в программах типа MK Ultra, где эксперименты проводились на ничего не подозревающих людях."
+            }
+        }
+    },
+    "MK-ULTRA Slave: Katy Perry": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "This is what happened with Katy Perry in the Summer of 2017, who publicly broke down, went on a psychotic fit on stage, then ended up making bizarre public statements about wanting to be herself again. She shaved her head, as many of these stars do as a first step in re-crafting an identity out of a shattered psyche. Britney Spears went through a nearly identical breakdown at the end of her career. This sets an example for those in the audience. Be outrageous. Be a puppet. Destroy yourself.",
+        "language": {
+            "RU": {
+                "title": "Программа Монарх: Кэти Перри",
+                "memoir": "Именно это и произошло с Кэти Перри летом 2017 года, которая публично сломалась, устроила психотический припадок на сцене, а затем сделала странные публичные заявления о том, что хочет снова быть собой. Она побрила голову, как делают многие из этих звезд, в качестве первого шага к восстановлению личности из разрушенной психики. Бритни Спирс пережила почти такой же срыв в конце своей карьеры. Это подает пример тем, кто находится в зале. Будьте возмутительны. Будьте марионеткой. Уничтожьте себя."
+            }
+        }
+    },
+    "MK-ULTRA Slave: Michael Jackson": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "We continue our review of MK-Ultra and the entertainment industry. \"The bimbos that Hollywood has foisted on us as “stars” are largely mind-controlled playthings of the elite.\" Michael Jackson may have been passed up the paedophile food chain in order to receive the backing, marketing and exposure that made him a household name... The fallout revealed itself in all the strange and inexplicable behavior. He changed his face trying to put distance between him and his past. But he never could escape The Man in the Mirror. Victims victimize others. Prey it forward. Jackson is in the news again because of a new four-hour long documentary Leaving Neverland documents his depraved exploitation of young boys.",
+        "language": {
+            "RU": {
+                "title": "Программа Монарх: Майкл Джексон",
+                "memoir": "Продолжаем обзор MK-Ultra и индустрии развлечений. «Девушки, которых Голливуд навязал нам в качестве «звезд», в основном являются игрушками элиты, контролируемыми разумом». Майкл Джексон, возможно, был обойден педофильской пищевой цепочкой, чтобы получить поддержку, маркетинг и известность, которые сделали его именем нарицательным... Последствия проявились во всем странном и необъяснимом поведении. Он изменил свое лицо, пытаясь дистанцироваться от своего прошлого. Но он так и не смог избежать Человека в зеркале. Жертвы делают жертвами других. Жертва вперед. Джексон снова в новостях из-за нового четырехчасового документального фильма «Покидая Неверленд», документирующего его извращенную эксплуатацию молодых мальчиков."
+            }
+        }
+    },
+    "Ariana Grande Marilyn Monroe's Birthday": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "Marilyn Monroe would've turned 88 on Sunday, a milestone Ariana Grande recognized on Twitter. But the singer's well-meaning tweet led to a big backlash - and a rant from the star hitting back at the criticism. \"so much hate for celebrating Marilyn's spirit on her birthday. I adore her work and have compassion for her inner sadness that she covered up on a daily basis that a**holes like you made her feel in the first place!!\" Grande wrote. She went on, \"I feel for the people who focus on hate... because that's all you have to give. and I truly do feel sorry for you because when you've been dead for 50 some odd years... nobody will be wishing you a happy birthday.\"",
+        "language": {
+            "RU": {
+                "title": "Ариана Гранде в день рождения Мэрилин Монро",
+                "memoir": "Мэрилин Монро исполнилось бы 88 лет в воскресенье, и Ариана Гранде отметила это событие в Twitter. Но благонамеренный твит певицы вызвал бурную реакцию - и гневную тираду звезды, которая ответила на критику. «Столько ненависти за чествование духа Мэрилин в ее день рождения. Я обожаю ее работу и сочувствую ее внутренней печали, которую она скрывала каждый день, которую такие придурки, как ты, заставили ее чувствовать в первую очередь!!», - написала Гранде. Она продолжила: «Я сочувствую людям, которые сосредоточены на ненависти... потому что это все, что вы можете дать. И мне действительно жаль вас, потому что когда вы мертвы уже 50 с лишним лет... никто не поздравит вас с днем ​​рождения»."
+            }
+        }
+    },
+    "Central Park": {
+        "country": "US", "insignia": "Liberty",
+        "memoir": "The creation of a large park in Manhattan was first proposed in the 1840s, and a 315 ha park approved in 1853. In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition for the park with their \"Greensward Plan\". Construction began in 1857; existing structures, including a majority-Black settlement named Seneca Village, were seized through eminent domain and razed. The park's first areas were opened to the public in late 1858. Additional land at the northern end of Central Park was purchased in 1859, and the park was completed in 1876. After a period of decline in the early 20th century, New York City parks commissioner Robert Moses started a program to clean up Central Park in the 1930s. The Central Park Conservancy, created in 1980 to combat further deterioration in the late 20th century, refurbished many parts of the park starting in the 1980s.",
+        "language": {
+            "RU": {
+                "title": "Центральный Парк",
+                "memoir": "Создание большого парка в Манхэттене было впервые предложено в 1840-х годах, а парк площадью 315 га был одобрен в 1853 году. В 1858 году ландшафтные архитекторы Фредерик Лоу Олмстед и Калверт Во выиграли конкурс проектов парка со своим «Планом зеленых насаждений». Строительство началось в 1857 году; существующие сооружения, включая преимущественно черное поселение под названием Сенека-Виллидж, были конфискованы через право принудительного отчуждения и снесены. Первые участки парка были открыты для публики в конце 1858 года. Дополнительная земля в северной части Центрального парка была куплена в 1859 году, и парк был завершен в 1876 году. После периода упадка в начале 20-го века комиссар парков Нью-Йорка Роберт Мозес начал программу по очистке Центрального парка в 1930-х годах. Организация Central Park Conservancy, созданная в 1980 году для борьбы с дальнейшим ухудшением состояния парка в конце XX века, отреставрировала многие части парка, начиная с 1980-х годов."
+            }
+        }
+    },
+    "Neverland Ranch": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "A documentary on Michael Jackson that debuted Sunday night on HBO features accusations from two men who claim the late pop icon sexually assaulted them when they were children. \"Leaving Neverland\" tells the stories of James Safechuck and Wade Robson, who allege the legendary singer sexually abused them separately. The first part of the four-hour documentary aired Sunday night. Part two aired Monday night. All four hours are available for streaming on HBO Now and HBO Go.",
+        "language": {
+            "RU": {
+                "title": "Поместье Неверлэнд",
+                "memoir": "Документальный фильм о Майкле Джексоне, премьера которого состоялась в воскресенье вечером на канале HBO, содержит обвинения двух мужчин, которые утверждают, что покойная поп-икона подвергла их сексуальному насилию, когда они были детьми. «Покидая Неверленд» рассказывает истории Джеймса Сейфчака и Уэйда Робсона, которые утверждают, что легендарный певец подверг их сексуальному насилию по отдельности. Первая часть четырехчасового документального фильма вышла в эфир в воскресенье вечером. Вторая часть вышла в эфир в понедельник вечером. Все четыре часа доступны для просмотра на HBO Now и HBO Go."
+            }
+        }
+    },
+    "Most Unsanitary Person in Hollywood": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "'Michael Jackson was the most unsanitary person in Hollywood': How the singer threatened to throw 'do-do laced snowballs' and even peed on the Neverland entrance hall floor Oprah passed over the day before. Michael Jackson's former housekeepers have claimed he lived in deplorable conditions inside Neverland Ranch. The singer allegedly threatened throwing 'doo-doo snowballs' at staff. Jackson's living conditions reportedly led to a bedbug outbreak. He allegedly peed on the floor in front of a housekeeper the day after his Oprah interview.",
+        "language": {
+            "RU": {
+                "title": "Самый негигиеничный человек в Голливуде",
+                "memoir": "«Майкл Джексон был самым негигиеничным человеком в Голливуде»: как певец угрожал бросать «снежки с начинкой из до-до» и даже мочился на пол в вестибюле Neverland Опра ушла из жизни накануне. Бывшие домработницы Майкла Джексона утверждают, что он жил в ужасных условиях на ранчо Neverland. Певец якобы угрожал бросать «снежки с до-до» в персонал. Сообщается, что условия проживания Джексона привели к вспышке клопов. Он якобы помочился на пол перед домработницей на следующий день после своего интервью Опре."
+            }
+        }
+    },
+    "Leaving Neverland": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "Prior to his death, Jackson faced allegations of child molestation in 1993 and 2003. In 1995, Jackson reached a $23 million settlement with the family of Jordan Chandler, and was acquitted by a California jury on charges of alleged abuse of a 13-year-old boy in 2005. He denied ever acting inappropriately with children throughout his life. In their first television interview prior to the airing of \"Leaving Neverland,\" Robson and Safechuck told \"CBS This Morning\" how their alleged abuse with Jackson began. Both detailed the methods Jackson allegedly used when they visited his Neverland ranch in California as children.",
+        "language": {
+            "RU": {
+                "title": "Покидая Неверлэнд",
+                "memoir": "До своей смерти Джексон столкнулся с обвинениями в растлении малолетних в 1993 и 2003 годах. В 1995 году Джексон достиг соглашения в размере 23 миллионов долларов с семьей Джордана Чандлера и был оправдан калифорнийским судом присяжных по обвинению в предполагаемом насилии над 13-летним мальчиком в 2005 году. Он отрицал, что когда-либо вел себя неподобающим образом с детьми на протяжении всей своей жизни. В своем первом телевизионном интервью перед выходом в эфир «Покидая Неверленд» Робсон и Сейфчак рассказали «CBS This Morning», как началось их предполагаемое насилие над Джексоном. Оба подробно рассказали о методах, которые Джексон якобы использовал, когда они посещали его ранчо Неверленд в Калифорнии в детстве."
+            }
+        }
+    },
+    "Michael Jackson Estate": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "Members of the Jackson family have publicly denounced \"Leaving Neverland,\" arguing that not only are the allegations detailed in the documentary false, but that filmmakers never reached out to the family for comment or gave them a chance to argue for Jackson's innocence. Michael Jackson's brothers Jackie, Tito, Marlon and nephew Taj sat down with \"CBS This Morning\" co-host Gayle King on Wednesday to dispute the allegations raised in the film.",
+        "language": {
+            "RU": {
+                "title": "Семья Майкла Джексона",
+                "memoir": "Члены семьи Джексонов публично осудили \"Покидая Неверленд\", утверждая, что не только обвинения, подробно изложенные в документальном фильме, являются ложными, но и что создатели фильма никогда не обращались к семье за ​​комментариями или не давали им возможности отстаивать невиновность Джексона. Братья Майкла Джексона Джеки, Тито, Марлон и племянник Тадж встретились с соведущей \"CBS This Morning\" Гейл Кинг в среду, чтобы оспорить обвинения, высказанные в фильме."
+            }
+        }
+    },
+    "Critics of the Documentary": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "The critical reaction to \"Leaving Neverland\" has been overwhelmingly positive, with the documentary garnering a Rotten Tomatoes score of 96 percent. NPR called the documentary \"a tribute to the power of personal testimony,\" and The New Yorker said it is a \"grueling and devastating film that asks viewers to reconfigure how they think about both Jackson and potential victims of rape.\"",
+        "language": {
+            "RU": {
+                "title": "Критика документального фильма",
+                "memoir": "Критическая реакция на «Покидая Неверленд» была исключительно положительной, документальный фильм получил оценку 96 процентов на Rotten Tomatoes. NPR назвало документальный фильм «данью уважения силе личного свидетельства», а The New Yorker сказал, что это «изнурительный и сокрушительный фильм, который просит зрителей пересмотреть свои взгляды как на Джексона, так и на потенциальных жертв изнасилования»."
+            }
+        }
+    },
+    "Taj Jackson's Poem": {
+        "country": "US", "insignia": "MichaelJackson",
+        "memoir": "Bullying and name-calling are considered mean and not tolerated. Unless it's about Michael Jackson. Making up stories for profit is dishonest and journalists who do so are considered tabloid. Unless it's about Michael Jackson. A movie with as many lies as Leaving Neverland is not called a documentary. Unless it's about Michael Jackson. A rumour should be verified before reported and spread around the world. Unless it's about Michael Jackson. It's wrong to question someone's sexuality. Unless it's about Michael Jackson. You're innocent until proven guilty. Unless you're Michael Jackson. You can rest in peace once you die. Unless you're Michael Jackson.",
+        "language": {
+            "RU": {
+                "title": "Поэма Таджа Джексона",
+                "memoir": "Издевательства и оскорбления считаются подлыми и недопустимыми. Если только это не касается Майкла Джексона. Выдумывание историй ради прибыли является нечестным, и журналисты, которые так делают, считаются таблоидами. Если только это не касается Майкла Джексона. Фильм с таким количеством лжи, как «Покидая Неверленд», не называется документальным фильмом. Если только это не касается Майкла Джексона. Слух должен быть проверен, прежде чем его сообщать и распространять по всему миру. Если только это не касается Майкла Джексона. Неправильно подвергать сомнению чью-либо сексуальную ориентацию. Если только это не касается Майкла Джексона. Вы невиновны, пока не доказано, что вы виновны. Если только вы не Майкл Джексон. Вы можете покоиться с миром, когда умрете. Если только вы не Майкл Джексон."
+            }
+        }
+    },
+    "MK-ULTRA": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "Founded in 1953, MK-Ultra was seen by CIA director Allen W. Dulles as a way to study mind control, which he wanted to weaponise against the Soviet Union to gain a critical edge in the Cold War. With communism at its height, the CIA was disturbed by reports that American prisoners had been turned into communist allies, and believed this was evidence they had been manipulated or even hypnotised under questioning. The agency poured millions of dollars into studies examining ways to influence and control the mind and to enhance its ability to extract information from resistant subjects during interrogation. As part of this research, testing with psychedelic drugs such as LSD was common.",
+        "language": {
+            "RU": {
+                "memoir": "Основанная в 1953 году, MK-Ultra рассматривалась директором ЦРУ Алленом В. Даллесом как способ изучения контроля над разумом, который он хотел использовать в качестве оружия против Советского Союза, чтобы получить решающее преимущество в Холодной войне. В разгар коммунизма ЦРУ было обеспокоено сообщениями о том, что американские заключенные были превращены в союзников коммунистов, и считало, что это было доказательством того, что ими манипулировали или даже гипнотизировали во время допросов. Агентство вложило миллионы долларов в исследования, изучающие способы влияния и контроля над разумом и повышения его способности извлекать информацию из сопротивляющихся субъектов во время допросов. В рамках этого исследования тестирование с использованием психоделических препаратов, таких как ЛСД, было обычным делом."
+            }
+        }
+    },
+    "Monarch Programming": {
+        "country": "US", "insignia": "Mason",
+        "memoir": "This, the Illuminati mind-controlled celebrity conspiracy is ubiquitous and the symbolism of the occult, of pedophilia, and of the Illuminati is everywhere. Being subjected to Monarch programming and MK Ultra conditioning develops a form of schizophrenia in the victim, causing them to take on two distinct personalities. One personality is able to perform whatever degrading, self-deprecating behavior is necessary to pull off such ritualistic, ridiculous public performances. The other personality, the true and private self is subdued, eventually begging for help."
+    },
+    "Aurora Borealis": {
+        "country": "NO", "insignia": "Compass",
+        "memoir": "The northern lights, or the aurora borealis, are beautiful dancing ribbons of light that have captivated people for millennia. But for all its beauty, this spectacular light show is a rather violent event.",
+        "language": {
+            "RU": {
+                "title": "Северное Сияние",
+                "memoir": "Северное сияние, или северное сияние, представляет собой красивые танцующие ленты света, которые пленяли людей на протяжении тысячелетий. Но при всей своей красоте это зрелищное световое шоу является довольно жестоким событием."
+            }
+        }
+    },
+    "NASA Moon Landing": {
+        "country": "US", "insignia": "NASA",
+        "memoir": "On July 20, 1969, an estimated 650 million people watched in suspense as Neil Armstrong descended a ladder towards the surface of the Moon. As he took his first steps, he uttered words that would be written into history books for generations to come: \"That's one small step for man. One giant leap for mankind.\"",
+        "language": {
+            "RU": {
+                "title": "NASA Высадка на луну",
+                "memoir": "20 июля 1969 года около 650 миллионов человек с нетерпением наблюдали, как Нил Армстронг спускался по лестнице к поверхности Луны. Делая свои первые шаги, он произнес слова, которые будут записаны в учебники истории для будущих поколений: \"Это один маленький шаг для человека. Гигантский скачок для человечества.\""
+            }
+        }
+    },
+    "Taj Mahal": {
+        "country": "IN", "insignia": "Capitol",
+        "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+        "language": {
+            "RU": {
+                "title": "Тадж-Махал",
+                "memoir": "Тадж-Махал - мавзолей из мрамора цвета слоновой кости на правом берегу реки Ямуна в Агре, Уттар-Прадеш, Индия. Он был заказан в 1631 году пятым императором Моголов Шах-Джаханом для размещения гробницы его любимой жены Мумтаз-Махал; в нем также находится гробница самого Шах-Джахана. Гробница является центральным элементом комплекса площадью 17 гектаров, который включает мечеть и гостевой дом и расположен в регулярных садах, ограниченных с трех сторон зубчатой ​​стеной."
+            }
+        }
+    },
+    "Manarola": {
+        "country": "IT", "insignia": "Squid",
+        "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around.",
+        "language": {
+            "RU": {
+                "title": "Манарола",
+                "memoir": "Манарола, построенная на высокой скале в 70 метрах над уровнем моря, является одной из самых очаровательных и романтичных деревень Чинкве-Терре. В крошечной гавани есть лодочный спуск, крошечная площадь и живописные разноцветные дома с видом на море. Вы можете насладиться обедом в одном из рыбных ресторанов на небольшой площади рядом с гаванью. Район гавани заполнен красочными гребными лодками и становится главным местом для загара и купания в деревне с утра до заката. На самом деле, это идеальное место, чтобы провести ленивый день, загорая и наблюдая, как люди прыгают со скал. Хотя здесь нет настоящего пляжа, здесь есть одни из лучших мест для глубоководного плавания."
+            }
+        }
+    },
+    "Santorini": {
+        "country": "GR", "insignia": "Spartan",
+        "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades.",
+        "language": {
+            "RU": {
+                "title": "Санторини",
+                "memoir": "Санторини, известный с древних времен как Тира, является одним из самых известных островов в мире. Тот факт, что вы можете сидеть перед кальдерой, наслаждаться местными блюдами, напитком или кофе, глядя на замечательную красоту действующего вулкана, бесценен! Остров на самом деле представляет собой группу островов, состоящую из Тиры, Тирасии, Аспронисси, Палеи и Неа Камени в самой южной части Киклад."
+            }
+        }
+    },
+    "Akihabara": {
+        "country": "JP", "insignia": "Huawei",
+        "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district.",
+        "language": {
+            "RU": {
+                "title": "Акихабара",
+                "memoir": "Название Акихабара является сокращением от Акибагахара, которое происходит от Акиба, названного в честь божества, управляющего огнем, в пожарном храме, построенном после того, как район был уничтожен пожаром в 1869 году. Акихабара получила прозвище Akihabara Electric Town вскоре после Второй мировой войны за то, что она была крупным торговым центром бытовой электроники и послевоенного черного рынка. Многие считают Акихабару центром японской культуры отаку и крупным торговым районом для видеоигр, аниме, манги, электроники и компьютерных товаров. Символы популярных аниме и манги выставлены на видном месте на магазинах в этом районе, а многочисленные мейд-кафе и несколько игровых автоматов можно найти по всему району."
+            }
+        }
+    },
+    "Ardennes": {
+        "country": "BE", "insignia": "Palace",
+        "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate.",
+        "language": {
+            "RU": {
+                "title": "Арденны",
+                "memoir": "Арденны простираются вглубь Германии и Франции (давая свое название департаменту Арденны и бывшему региону Шампань-Арденны) и геологически в Эйфель (восточное продолжение Арденнского леса в Битбург-Прюм, Германия); большая часть его находится на юго-востоке Валлонии, южной и более сельской части Бельгии (вдали от прибрежной равнины, но охватывающей более половины общей площади страны). Восточная часть Арденн образует самую северную треть Великого Герцогства Люксембург, также называемого «Эйслек». На юго-востоке регион Эйфель продолжается в немецкой земле Рейнланд-Пфальц."
+            }
+        }
+    },
+    "Tuscany": {
+        "country": "IT", "insignia": "Wine",
+        "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\".",
+        "language": {
+            "RU": {
+                "title": "Тоскана",
+                "memoir": "Тоскана известна своими ландшафтами, историей, художественным наследием и влиянием на высокую культуру. Она считается родиной итальянского Возрождения и основ итальянского языка. Престиж, созданный использованием тосканского диалекта в литературе Данте Алигьери, Петрарки, Джованни Боккаччо, Никколо Макиавелли и Франческо Гвиччардини, привел к его последующей разработке в качестве языка культуры по всей Италии. Она была домом для многих влиятельных деятелей в истории искусства и науки и содержит известные музеи, такие как Уффици и Палаццо Питти. Тоскана также известна своими винами, включая Кьянти, Вино Нобиле ди Монтепульчано, Мореллино ди Скансано, Брунелло ди Монтальчино и белое Верначча ди Сан Джиминьяно. Имея сильную языковую и культурную идентичность, ее иногда считают «нацией внутри нации»."
+            }
+        }
+    }
+}
